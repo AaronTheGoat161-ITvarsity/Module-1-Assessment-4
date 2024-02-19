@@ -1,0 +1,38 @@
+#menu-bar a{
+    text-decoration : none;
+    font-weight     : 800px;
+    font-size       : 14px;
+    font-family     : Helvetica, sans-serif;
+    background-color: aquamarine;
+    color: black;
+    display: block;
+    padding-left: 18px;
+    padding: 5px;
+    float: left;
+}
+#menu-bar a:hover{
+    color: #ffffff; 
+}
+
+h1{
+    color: #076c74;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #29B4AF;
+   }
+   th{
+    font-weight     : 800;
+    background-color: #29B4AF;
+    color           : #ffffff;
+   }
+tr{
+    background-color: powderblue;
+    color: black;
+}
